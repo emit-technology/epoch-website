@@ -617,7 +617,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  padding: 120px 0;
+  padding: 100px 0;
 }
 .about .content h3 {
   font-weight: 600;
@@ -713,11 +713,11 @@ section {
 # Services
 --------------------------------------------------------------*/
 .services {
-  background-image: url(../img/epoch/02/bg_03.png), linear-gradient(#222e88 10%, #222e88 0%,#f3f3f4 15%);
+  background-image: url(../img/epoch/02/bg_03.png);
   background-repeat: no-repeat;
+  background-color: #f2f2f4;
   background-size: 100%;
   color: #000;
-  min-height: 200vh;
 }
 .road-ct {
 
