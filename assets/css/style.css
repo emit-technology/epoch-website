@@ -645,7 +645,7 @@ section {
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 10px 50px 10px 28px;
+  padding: 10px 28px 10px 28px;
   border-radius: 5px;
   transition: 0.5s;
   color: #fff;
@@ -669,7 +669,7 @@ section {
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 10px 50px 10px 28px;
+  padding: 10px 28px 10px 28px;
   border-radius: 5px;
   transition: 0.5s;
   color: #fff;
@@ -684,6 +684,24 @@ section {
   position: absolute;
   right: 20px;
   top: 12px;
+}
+
+.btn-buy {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 28px 10px 28px;
+  border-radius: 5px;
+  transition: 0.5s;
+  color: #fff;
+  background: linear-gradient(45deg, #e92b77 0%, #d8275f 100%);
+  position: relative;
+    text-align: center;
+}
+.btn-buy:hover {
+  background: linear-gradient(180deg, #e92b77 0%, #d8275f 100%);
 }
 
 /*--------------------------------------------------------------
